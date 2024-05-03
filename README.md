@@ -11,3 +11,6 @@
 
 ## Screenshot
 
+![image](https://github.com/Shanmukh459/React-pagination/assets/52078988/85af5cd0-e93a-4ff0-965c-74394f105711)
+
+Happy Coding!
